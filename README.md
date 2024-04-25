@@ -1,10 +1,10 @@
-# 💫 Hey There, I am Shubham Kumar :
+# 💫 Hey There, I am Rohit kumaer :
 
-🔭 I’m currently working on XCODEBOX <br>👯 I’m looking to collaborate on Software Development <br>🌱 I’m currently learning Full-stack devlopment <br>💬 Ask me about Anything <br>⚡ Fun fact I  Think I am HASHmookh.
+🔭 I’m currently working on webdevlopment <br>👯 I’m looking to collaborate on Software Development <br>🌱 I’m currently learning Full-stack devlopment <br>💬 Ask me about Anything <br>⚡ Fun fact I  Think I am HASHmookh.
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubham-kumar-ins/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/insshubh) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohit-kumar-09038a250/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)]() 
 
 # 💻 Tech Stack:
 
