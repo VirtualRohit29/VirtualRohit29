@@ -13,7 +13,7 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=VirtualRohit29&theme=radical&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=VirtualRohit29&theme=radical&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=VirtualRohit29i&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=VirtualRohit29&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🐦 Latest Tweet
 [![](https://gtce.itsvg.in/api?username=VirtualRohit29)](https://github.com/https://twitter.com/VirtualRohit29github-twitter-card-embed)
